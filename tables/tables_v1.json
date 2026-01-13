@@ -1,0 +1,24 @@
+{
+  "raids": [
+    {
+      "id": "easy",
+      "name": "Easy Raid",
+      "category": "core",
+      "hpPerPlayer": 20,
+      "dice": { "skipTurn1": true, "extraDieEveryEvenTurnAfter2": true },
+      "table": [
+        { "roll": 1, "title": "…", "text": "…" }
+      ]
+    },
+    {
+      "id": "custom_lorwyn_eclipsed",
+      "name": "Custom: Lorwyn Eclipsed",
+      "category": "custom",
+      "hpPerPlayer": 30,
+      "dice": { "skipTurn1": true, "extraDieEveryEvenTurnAfter2": true },
+      "table": [
+        { "roll": 1, "title": "…", "text": "…" }
+      ]
+    }
+  ]
+}
