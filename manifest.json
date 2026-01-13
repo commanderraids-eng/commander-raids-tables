@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "tablesUrl": "https://raw.githubusercontent.com/<you>/<repo>/main/tables/tables_v1.json",
+  "sha256": "<optional later>",
+  "notes": "Initial release tables + custom raids."
+}
